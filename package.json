@@ -1,6 +1,6 @@
 {
   "name": "lineus-mongoose-wrapper",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simple quickstart wrapper for mongoose",
   "main": "index.js",
   "author": "Kev \"lineus\"",
@@ -9,5 +9,9 @@
   "dependencies": {
     "mongodb": "^3.0.2",
     "mongoose": "^5.0.3"
+  },
+  "homepage": "https://github.com/cjrutherford/lineus-mongoose-wrapper",
+  "bugs": {
+    "url": "https://github.com/cjrutherford/lineus-mongoose-wrapper/issues"
   }
 }
