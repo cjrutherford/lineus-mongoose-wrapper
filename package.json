@@ -1,6 +1,6 @@
 {
   "name": "lineus-mongoose-wrapper",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Simple quickstart wrapper for mongoose",
   "main": "index.js",
   "author": "Kev \"lineus\"",
