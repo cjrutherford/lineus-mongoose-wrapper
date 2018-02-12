@@ -11,6 +11,8 @@ npm install lineus-mongoose-wrapper
 
 ```
 const mongoose = require('lineus-mongoose-wrapper')(serverAddress, portNumber);
+//Optionally, one can define a default collection to connect to by specifying a collection
+const mongoose = require('lineus-mongoose-wrapper')(serverAddress, portNumber, collection);
 
 ```
 
