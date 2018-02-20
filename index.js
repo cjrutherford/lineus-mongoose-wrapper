@@ -1,7 +1,7 @@
 module.exports = mongoose = (server = localhost, port = 27017, collection) => {
   const mongoose = require('mongoose');
   mongoose.Promise = global.Promise;
-  const uri = ''
+  var uri = ''
   if(collection){
     uri = `mongodb://${server}:${port}/${collection}`;
   }else{
